@@ -49,6 +49,9 @@ function NavStack(){
         options={{ title: 'BlogAbout' }}
         />
 
+
+
+
       
     </Stack.Navigator> 
   );
